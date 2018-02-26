@@ -1,5 +1,6 @@
 # Simple Landers
 
+
 'Simple Landers' is a collection of Jekyll landing pages for lead generation, designed for use on [BowTie.io](https://bowtie.io). This template is meant as a learning resource. It is compatible with other BowTie components and templates.
 
 This template includes a number of simple landing pages with lead generation forms, a countdown timer, data collection using BowTie's prospect registration, testimonials, and a user card lander, error pages, a maintenance page, and user management and registration provided by BowTie.
